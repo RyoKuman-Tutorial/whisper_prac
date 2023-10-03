@@ -1,6 +1,6 @@
-[submodule "whisper_front"]
-	path = whisper_front
-	url = https://github.com/RyoKuman-Tutorial/whisper_front.git
-[submodule "whisper_back"]
-	path = whisper_back
-	url = https://github.com/RyoKuman-Tutorial/whisper_back.git
+[submodule "whisper_frontend"]
+	path = whisper_frontend
+	url = https://github.com/RyoKuman-Tutorial/whisper_frontend.git
+[submodule "whisper_backend"]
+	path = whisper_backend
+	url = https://github.com/RyoKuman-Tutorial/whisper_backend.git
